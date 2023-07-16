@@ -1,6 +1,6 @@
-# Dataprocessor
+# Dataprocessor\n
 
-Module: DataStreamProcessor
+Module: DataStreamProcessor \n
 Description:  This module processes a data stream and replaces
               any zero data points with the average of the
               neighboring values
